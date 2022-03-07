@@ -1,0 +1,15 @@
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\bin\Debug\net5.0\TenToOne.exe
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\bin\Debug\net5.0\TenToOne.deps.json
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\bin\Debug\net5.0\TenToOne.runtimeconfig.json
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\bin\Debug\net5.0\TenToOne.runtimeconfig.dev.json
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\bin\Debug\net5.0\TenToOne.dll
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\bin\Debug\net5.0\ref\TenToOne.dll
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\bin\Debug\net5.0\TenToOne.pdb
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\obj\Debug\net5.0\TenToOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\obj\Debug\net5.0\TenToOne.AssemblyInfoInputs.cache
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\obj\Debug\net5.0\TenToOne.AssemblyInfo.cs
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\obj\Debug\net5.0\TenToOne.csproj.CoreCompileInputs.cache
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\obj\Debug\net5.0\TenToOne.dll
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\obj\Debug\net5.0\ref\TenToOne.dll
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\obj\Debug\net5.0\TenToOne.pdb
+C:\Users\jaagu\source\repos\MoreLoops\TenToOne\obj\Debug\net5.0\TenToOne.genruntimeconfig.cache
